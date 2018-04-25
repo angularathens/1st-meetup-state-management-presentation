@@ -1,2 +1,2 @@
 ## My Presentation from the 1st Angular Athens meetup
-## [Presentation](https://stefanos-.github.io/angular-athens-meetup-presentation/)
+## [Presentation](https://angularathens.github.io/1st-meetup-state-management-presentation/)
